@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const url = 'https://instagram.com/accounts/login';
-const username = 'mlucas4330@gmail.com';
-const senha = 'lutador123';
+const username = '';
+const senha = '';
 
 (async () => {
     const browser = await puppeteer.launch({ 
